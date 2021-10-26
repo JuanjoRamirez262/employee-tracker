@@ -4,7 +4,7 @@
     
 Handle a database with three tables, ```department```, ```'role``` and ```employee```. Allows to view, create and update new rows to the tables, via console prompt. The packages used in this code are ```inquirer```, ```mysql2``` and ```dotenv```. 
 
-[Video demo](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/501da877-d931-483e-y989-fec1611bed30)
+[Video demo](https://watch.screencastify.com/v/8NKi9TV6LwXRf10F4xj1)
 
 ![working code](./assets/images/workingCode.jpg)
 
